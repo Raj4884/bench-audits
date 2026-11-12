@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+nab_rankings.json
